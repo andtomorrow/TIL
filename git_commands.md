@@ -19,7 +19,7 @@
 - 로컬저장소에 원격저장소 정보 설정
 - `git remote add origin https://github.com/{userid}/{repositoryname}.git`
 
-## commands
+## Push / Pull
 * `git push origin master`
 * `git pull origin master`
 
