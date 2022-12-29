@@ -21,4 +21,4 @@
 * 원격 Project repository를 내 원격저장소로 `fork`
 * 로컬로 Clone (`url`에 내 저장소를 입력했는지 확인할 것)
 * 작업, `add`, `commit`, `push`
-* `Pull Request` 생성
+* `Pull Request` 생성 (이후는 동일함)
