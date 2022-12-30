@@ -15,3 +15,7 @@
 * `commit` 과 `save`가 다르다는 것을 분명히 알아둘 것
 * [git_flow_manage](summary/git_flow_manage.md)에 내용 정리
 * `fetch upstream`에 대해 알아볼 것
+
+### 2022-12-30 Fri
+* 특강
+* ~~merge conflict 테스트를 위한 편집~~
